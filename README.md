@@ -16,3 +16,11 @@ These tools are essential for working efficiently in a team and sharing my proje
 I am motivated to become independent in managing my code and analyses.  
 I enjoy experimenting and learning through practice, which makes Git and GitHub very useful.  
 My goal is to develop strong skills that will serve my future research and biomedical engineering projects.
+
+## Image locale
+
+This is a picture from my favourite manga:
+
+![Mon image locale](C:\Users\nicsa\OneDrive\Documents\GitHub\MAM2ADMM-Series00-Git-NICSAW09-NICSAW09 "image manga")
+
+
