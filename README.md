@@ -23,4 +23,14 @@ This is a picture from my favourite manga:
 
 ![Mon image locale](C:\Users\nicsa\OneDrive\Documents\GitHub\MAM2ADMM-Series00-Git-NICSAW09-NICSAW09 "image manga")
 
+## Mission Summary
+
+During this mission, I learned how to clone a GitHub repository and manage it locally with GitHub Desktop and VSCode.
+I discovered how to write and structure a README file using Markdown syntax.
+I learned how to make clear and descriptive commits to keep track of my changes.
+I also learned how to add inline images via a URL, and local images using a relative path.
+The main commands used were: git clone, commit, push, as well as file management in GitHub Desktop.
+
+This mission took me approximately 2.5 hours to complete.
+
 
